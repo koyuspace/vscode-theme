@@ -9,7 +9,11 @@
 		"sideBar.background": "#223",
 		"sideBarSectionHeader.background": "#223",
 		"sideBar.border": "#223",
-		"tab.activeForeground": "#fff"
+		"tab.activeForeground": "#fff",
+		"activityBar.background": "#223",
+		"activityBar.border": "#223",
+		"titleBar.activeBackground": "#223",
+		"titleBar.inactiveBackground": "#112"
 	},
 	"tokenColors": [
 		{
