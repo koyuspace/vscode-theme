@@ -2,10 +2,14 @@
 	"name": "koyu.space Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#222233",
+		"editor.background": "#223",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#fe53e1",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#223",
+		"sideBarSectionHeader.background": "#223",
+		"sideBar.border": "#223",
+		"tab.activeForeground": "#fff"
 	},
 	"tokenColors": [
 		{
