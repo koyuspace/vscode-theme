@@ -10,10 +10,14 @@
 		"sideBarSectionHeader.background": "#223",
 		"sideBar.border": "#223",
 		"tab.activeForeground": "#fff",
+		"tab.inactiveBackground": "#112",
 		"activityBar.background": "#223",
 		"activityBar.border": "#223",
 		"titleBar.activeBackground": "#223",
-		"titleBar.inactiveBackground": "#112"
+		"titleBar.inactiveBackground": "#112",
+		"statusBar.background": "#223",
+		"editorGroupHeader.tabsBackground": "#223",
+
 	},
 	"tokenColors": [
 		{
