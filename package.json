@@ -4,6 +4,7 @@
     "description": "Official koyu.space VS Code theme",
     "version": "0.0.1",
     "publisher": "koyuspace",
+    "repository": "https://github.com/koyuspace/vscode-theme",
     "engines": {
         "vscode": "^1.55.0"
     },
