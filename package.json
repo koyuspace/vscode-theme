@@ -1,0 +1,21 @@
+{
+    "name": "koyu-theme",
+    "displayName": "koyu.space Theme",
+    "description": "Official koyu.space VS Code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "koyu.space Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/koyu.space Theme-color-theme.json"
+            }
+        ]
+    }
+}
